@@ -1,0 +1,41 @@
+@import url("https://fonts.googleleapis.com/css2?family=poppins&display=swap");
+
+body {
+    background-color: #f1f2fa;
+    font-family: "Poppins",sans-serif;
+}
+
+hr {
+   border: 1.5px solid #0b5ed7  ;
+}
+
+.crd {
+    background-color: #f1f2fa;
+    transition: all;
+
+}
+
+.crd:hover{
+   background-color: red;
+   color: white;
+   transition: 0.6s;
+}
+
+.mamama {
+    border: 1.5px solid black ;
+}
+
+#bead {
+    background-color: red;
+    color:#f1f2fa;
+}
+
+#footer a:hover {
+    color:#fff;
+}
+
+
+
+#copyright {
+    border-top: 1px solid #333;
+}
